@@ -24,7 +24,9 @@ ______________________________________________________________________
    売り方（横串の3フェーズ）: 診断 Assess → 構築 Build → 運用 Operate(MRR)
 ```
 
-> 製品体系の図は [`products.png`](products.png)（[`summary.md`](summary.md)）を参照。下の [`image.png`](image.png) は旧3パック版のフェーズ図（更新予定）。
+![Secure Data & AI Foundation 製品体系](products.png)
+
+> 製品体系図（[`summary.md`](summary.md) と共通）。旧 `image.png`（3パック版のフェーズ図）は現行構造と不一致のため非掲載。
 
 **3つの数字で表す事業ゴール（例示・要調整）**
 
