@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 1 | [summary.md](summary.md) | **製品体系の全体像**（入口→Pack A/C→運用MRR）。まずこれ。 | 上司・経営・初見 |
 | 2 | [roadmap.md](roadmap.md) | **事業ロードマップ＋採算**（フェーズ・価格・ユニットエコノミクス・今期P/L・90日計画） | 実行計画を見たい人 |
-| 3 | [ideas/_worklog.md](ideas/_worklog.md) | **意思決定ログ**（D0〜の決定・控え・各アイデアの深掘り D3〜D7） | 経緯を追いたい人・将来の自分 |
+| 3 | [ideas/\_worklog.md](ideas/_worklog.md) | **意思決定ログ**（D0〜の決定・控え・各アイデアの深掘り D3〜D7） | 経緯を追いたい人・将来の自分 |
 | 補 | [ideas_new_services.md](ideas_new_services.md) | **初期検討の13案カタログ＋5AIの意見**（※最新方針は上の3つを正） | 出発点を知りたい人 |
 
 ## いまの結論（30秒）
@@ -22,4 +22,3 @@
 ## 図
 
 - [products.png](products.png)：製品体系図（最新）
-- `image.png`：旧3パック版のフェーズ図（非推奨・現行構造と不一致）
